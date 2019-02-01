@@ -1,2 +1,11 @@
-# project_overview
-An overview of urban projects and repositories
+# File Structure
+
+## Motor Controller
+
+- Schematic
+  - Devices
+  - STM Pinout
+  - DRV Pinout  
+- Programming
+  - How to flash STM
+  - Odrive ConfigurationS
