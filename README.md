@@ -4,7 +4,7 @@
 
 - Schematic
   - Devices
-  - STM Pinout
+  - [STM Pinout](https://www.supermileage.ca/SMELEC_Documentation/STM%20Pinout)
   - DRV Pinout  
 - Programming
   - How to flash STM
