@@ -10,4 +10,4 @@
   - How to flash STM
   - Odrive ConfigurationS
 - Batteries
-  - [Chargers] (https://www.supermileage.ca/ELEC-Docs/Charger)
+  - [Chargers](https://www.supermileage.ca/ELEC-Docs/Charger)
